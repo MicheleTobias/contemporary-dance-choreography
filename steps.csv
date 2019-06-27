@@ -1,35 +1,45 @@
 category	step
-leap	jete
-leap	saut de chat
-leap	attitude leap
-leap	stag leap
-turning jump	leap turn
+floor work	back fall
+floor work	floor leg extension
+floor work	floor slide
+floor work	ping
+floor work	roll
+floor work	side fall
+floor work	sit
+jump	battement fouette
+jump	changement
 jump	jump in first
 jump	jump in second
-jump	changement
-turning jump	axel
-floor work	ping
-floor work	floor slide
+leap	attitude leap
+leap	jete
+leap	saut de chat
+leap	stag leap
 standing	leg extension
-jump	battement fouette
 standing	side layout
-floor work	floor leg extension
-floor work	side fall
-floor work	back fall
-floor work	sit
-floor work	roll
-	reach
-	L stand
-	split
-	chasse
 turn	chaines
-turn	pirouette
-turn	triplet turn
 turn	compass turn
 turn	fouette turn
-	kneel or crouch
-	crouch jump
-	pas de bourree
-	pas de chat
-	piquee
-	fall
+turn	pirouette
+turn	triplet turn
+turning jump	axel
+turning jump	leap turn
+foot work	chasse
+jump	crouch jump
+foot work	fall
+floor work	kneel or crouch
+upper body	L stand
+foot work	pas de bourree
+jump	pas de chat
+turn	piquee
+arm	reach
+floor work	split
+floor work	knee spin
+floor work	backwards roll
+floor work	spiral fall
+foot work	jazz slide
+standing	contraction
+floor work	graham arch
+arm	gesture
+standing	swing down and up
+turn	piquee attitude
+standing	fan kick
