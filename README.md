@@ -1,6 +1,9 @@
 # Contemporary Dance Choreography
 Experimenting with generating choreography with code
 
+## Results
+Normally you don't put your results first, but the video from the results of the initial choreography from 2019 are on [Michele's YouTube Channel](https://youtu.be/hz9mm7x-CE0).
+
 ## Introduction
 In the summers at my studio, I often take a choreography composition class.  In the first sessions, the instructor typically asks each participant to share any goals they might have for their choreography.  This year, my interest is in finding interesting and new (to me) combinations of movements, like pirouette and move directly to a floor sequence.  
 
